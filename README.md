@@ -1,10 +1,6 @@
 # realtime-chat-app
 A real-time chat application with Next.js on the client side, Node.js and Express on the server side, and Socket.IO to allow client and server communication (real-time bidirectional event-based communication).
 
-## Preview
-
-<img width="500" alt="image" src="https://github.com/chihiroanihr/realtime-chat-app/assets/42660669/df7c04e3-012d-4035-85c1-bf7c318ac784">
-
 ## Packages Installed
 
 ### Client
@@ -41,9 +37,3 @@ A real-time chat application with Next.js on the client side, Node.js and Expres
 
 `npm start`
 
-## Reference
-
-- [Youtube](https://www.youtube.com/watch?v=dSllP4TRJls)
-- Github
-  - [Client](https://github.com/Shin-sibainu/nextjs-socketio-client)
-  - [Server](https://github.com/Shin-sibainu/nextjs-socketio-server)
